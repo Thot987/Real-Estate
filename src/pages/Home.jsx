@@ -8,21 +8,21 @@ const properties = [
       title: "Polanco",
       location: "Ciudad de México",
       price: "$2000/noche",
-      image: "../public/assets/Casa1.png",
+      image: "/assets/Casa1.png",
     },
     {
       id: 2,
       title: "Cumbres",
       location: "Monterrey, Nuevo León",
       price: "$2500/noche",
-      image: "../public/assets/Casa2.png",
+      image: "/assets/Casa2.png",
     },
     {
       id: 3,
       title: "Lomas del Valle",
       location: "Guadalajara Jalisco",
       price: "$800/noche",
-      image: "../public/assets/Casa3.png",
+      image: "/assets/Casa3.png",
     },
   
     {
@@ -30,7 +30,7 @@ const properties = [
       title: "Centro",
       location: "Querétao, Querétaro",
       price: "$1200/noche",
-      image: "../public/assets/Casa4.png",
+      image: "/assets/Casa4.png",
     },
   
     {
@@ -38,7 +38,7 @@ const properties = [
       title: "Campestre",
       location: "Mérida Yucatán",
       price: "$500/noche",
-      image: "../public/assets/Casa5.png",
+      image: "/assets/Casa5.png",
     },
   
     {
@@ -46,7 +46,7 @@ const properties = [
       title: "San Patricio",
       location: "Saltillo, Coahuila",
       price: "$1500/noche",
-      image: "../public/assets/Casa6.png",
+      image: "/assets/Casa6.png",
     },
   
     {
@@ -54,7 +54,7 @@ const properties = [
       title: "El Molino",
       location: "León, Guanajuato",
       price: "$900/noche",
-      image: "../public/assets/Casa7.png",
+      image: "/assets/Casa7.png",
     },
   
     {
@@ -62,7 +62,7 @@ const properties = [
       title: "Calzada del Bosque",
       location: "Chihuahua, Chihuahua",
       price: "$800/noche",
-      image: "../public/assets/Casa8.png",
+      image: "/assets/Casa8.png",
     },
   
     {
@@ -70,7 +70,7 @@ const properties = [
       title: "Conquistadores",
       location: "Hermosillo, Sonora",
       price: "$800/noche",
-      image: "../public/assets/Casa9.png",
+      image: "/assets/Casa9.png",
     },
   
     {
@@ -78,7 +78,7 @@ const properties = [
       title: "Playacar",
       location: "Cancún, Quintana Roo",
       price: "$600/noche",
-      image: "../public/assets/Casa10.png",
+      image: "/assets/Casa10.png",
     },
 
 ];
