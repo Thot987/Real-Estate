@@ -3,6 +3,7 @@ import Modal from "./Modal.jsx";
 import useModal from "../hooks/useModal.jsx";
 import "./PropertyCard.css";
 
+
 function PropertyCard({ title, location, price, image }) {
     const { isOpen, openModal, closeModal } = useModal();
   
